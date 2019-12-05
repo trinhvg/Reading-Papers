@@ -2,6 +2,8 @@
 - What's Hidden in a Randomly Weighted Neural Network? [29 Nov 2019] [[arXiv]](https://arxiv.org/abs/1911.13299v1) 
 ## Symbolic Computation
 - Deep Learning for Symbolic Mathematics [2 Dec 2019] [[arXiv]](https://arxiv.org/abs/1912.01412v1)
+## Data preprocessing for Histopathology Image
+- [Otsu] Deep Learning for Identifying Metastatic Breast Cancer [[arXiv]](https://arxiv.org/pdf/1606.05718.pdf)
 ### Other awsome lists
 - GANs in general computer vision [[github]](https://github.com/nightrome/really-awesome-gan)
 - GANs for Medical Imaging [[github]](https://github.com/xinario/awesome-gan-for-medical-imaging)
