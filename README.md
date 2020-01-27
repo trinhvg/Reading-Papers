@@ -8,6 +8,8 @@
 ## Multi-task
 - Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics (May 2017) [[arXiv]](https://arxiv.org/pdf/1705.07115.pdf)
 - Cross-stitch Networks for Multi-task Learning (Apr 2016) [[arXiv]](https://arxiv.org/abs/1604.03539)
+## GAN
+- A Review on Generative Adversarial Networks:Algorithms, Theory, and Applications (20 Jan 2020) [[arXiv]](https://arxiv.org/pdf/2001.06937.pdf)
 ## Pytorch
 - PyTorch: An Imperative Style, High-Performance Deep Learning Library (3 Dec 2019) [[arXiv]](https://arxiv.org/abs/1912.01703)
 ## Others
