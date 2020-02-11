@@ -14,6 +14,8 @@
 - PyTorch: An Imperative Style, High-Performance Deep Learning Library (3 Dec 2019) [[arXiv]](https://arxiv.org/abs/1912.01703)
 ## Others
 - Reviving and Improving Recurrent Back-Propagation (March 2018) [[arXiv]](https://arxiv.org/abs/1803.06396)
+- A scikit-learn compatible neural network library that wraps pytorch [[github]](https://github.com/skorch-dev/skorch?fbclid=IwAR3euZYNFNvwEo5Mm-c1_FI2s2k1khjbZSuJxKywSwgmu6-a6hpbCCehoRs)
 ### Other awsome lists
 - GANs in general computer vision [[github]](https://github.com/nightrome/really-awesome-gan)
 - GANs for Medical Imaging [[github]](https://github.com/xinario/awesome-gan-for-medical-imaging)
+
