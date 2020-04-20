@@ -18,4 +18,5 @@
 ### Other awsome lists
 - GANs in general computer vision [[github]](https://github.com/nightrome/really-awesome-gan)
 - GANs for Medical Imaging [[github]](https://github.com/xinario/awesome-gan-for-medical-imaging)
+- Knowlege Distillation [[github]](https://github.com/dkozlov/awesome-knowledge-distillation)
 
