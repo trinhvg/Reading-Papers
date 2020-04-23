@@ -21,5 +21,5 @@
 - Knowlege Distillation [[github]](https://github.com/dkozlov/awesome-knowledge-distillation)
 - Knowlege Distillation 2 [[github]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 ### Tutorial page
-- ML [[linl]](https://madewithml.com/topics/)
+- ML [[link]](https://madewithml.com/topics/)
 
