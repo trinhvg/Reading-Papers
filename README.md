@@ -12,6 +12,8 @@
 - A Review on Generative Adversarial Networks:Algorithms, Theory, and Applications (20 Jan 2020) [[arXiv]](https://arxiv.org/pdf/2001.06937.pdf)
 ### Pytorch
 - PyTorch: An Imperative Style, High-Performance Deep Learning Library (3 Dec 2019) [[arXiv]](https://arxiv.org/abs/1912.01703)
+### Efficent deep learning
+- SqueezeNext: Hardware-Aware Neural Network Design (March 2018) [[arXiv]](https://arxiv.org/abs/1803.10615)
 ### Others
 - Reviving and Improving Recurrent Back-Propagation (March 2018) [[arXiv]](https://arxiv.org/abs/1803.06396)
 - A scikit-learn compatible neural network library that wraps pytorch [[github]](https://github.com/skorch-dev/skorch?fbclid=IwAR3euZYNFNvwEo5Mm-c1_FI2s2k1khjbZSuJxKywSwgmu6-a6hpbCCehoRs)
