@@ -24,4 +24,5 @@
 - Knowlege Distillation 2 [[github]](https://github.com/FLHonker/Awesome-Knowledge-Distillation)
 ### Tutorial page
 - ML [[link]](https://madewithml.com/topics/)
+- Notebook [[github]](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 
