@@ -25,4 +25,5 @@
 ### Tutorial page
 - ML [[link]](https://madewithml.com/topics/)
 - Notebook [[github]](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
+- ML colection [[link]](https://madewithml.com/collections/)
 
