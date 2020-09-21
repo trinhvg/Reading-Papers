@@ -26,4 +26,5 @@
 - ML [[link]](https://madewithml.com/topics/)
 - Notebook [[github]](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 - ML colection [[link]](https://madewithml.com/collections/)
+- Deep Learning on Graphs CMU [[link]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1mf-lfpS1fZmjEEsPFSTPkxHBzp6zWxkYANwn-w04wJCxm4h_A5OikgmU)
 
