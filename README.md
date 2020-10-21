@@ -29,17 +29,17 @@
 - Deep Learning on Graphs CMU [[link]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1mf-lfpS1fZmjEEsPFSTPkxHBzp6zWxkYANwn-w04wJCxm4h_A5OikgmU)
 
 ### CS294-158 Deep Unsupervised Learning
-GAN, DC GAN, ImprovedGAN, WGAN, WGAN-GP, Progr.GAN, SN-GAN, SAGAN, BigGAN(-Deep), StyleGAN-v1,2, VIB-GAN, GANs as Energy Models
+- GAN, DC GAN, ImprovedGAN, WGAN, WGAN-GP, Progr.GAN, SN-GAN, SAGAN, BigGAN(-Deep), StyleGAN-v1,2, VIB-GAN, GANs as Energy Models
 Abbeel et al.
 Video: https://youtu.be/1CT-kxjYbFU
 site: https://sites.google.com/view/berkeley-cs294-158-sp20/home
 
 ### RL
-UCL Course on RL (DAVID SILVER): https://www.davidsilver.uk/teaching/
-CS 294-112 at UC Berkeley: Deep Reinforcement Learning: 2018: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
+- UCL Course on RL (DAVID SILVER): https://www.davidsilver.uk/teaching/
+- CS 294-112 at UC Berkeley: Deep Reinforcement Learning: 2018: http://rail.eecs.berkeley.edu/deeprlcourse-fa18/
 solution: https://github.com/daggertye/CS294_homework
-stanford-ai-courses: https://ai.stanford.edu/courses/?fbclid=IwAR1RdWVDMK8YDsGqvR4cTj6dDHE99EZYvMuCgFXHjdp4ug0hmVUq92mmXTk
-Deep Reinforcement Learning: CS 285 at UC Berkeley, Fall 2020: Levine et al.: [[YouTube]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc&fbclid=IwAR3hJKa_vW3pOMVbAnfUFnzm0IJUAV7fzLMpt02ln1jXkfnJS3dbo0j5qM4)
-Graph Representation Learning https://paperswithcode.com/task/graph-representation-learning
+- stanford-ai-courses: https://ai.stanford.edu/courses/?fbclid=IwAR1RdWVDMK8YDsGqvR4cTj6dDHE99EZYvMuCgFXHjdp4ug0hmVUq92mmXTk
+- Deep Reinforcement Learning: CS 285 at UC Berkeley, Fall 2020: Levine et al.: [[YouTube]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc&fbclid=IwAR3hJKa_vW3pOMVbAnfUFnzm0IJUAV7fzLMpt02ln1jXkfnJS3dbo0j5qM4)
+- Graph Representation Learning https://paperswithcode.com/task/graph-representation-learning
 
-Deep Learning on Graphs Michigan State University [[Web]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1q1eUTHeGMJ4nXMfIGUN1KTdFarDEDPvq2dXz495CjPsFjTvrajJvMKsg)
+- Deep Learning on Graphs Michigan State University [[Web]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1q1eUTHeGMJ4nXMfIGUN1KTdFarDEDPvq2dXz495CjPsFjTvrajJvMKsg)
