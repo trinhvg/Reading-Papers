@@ -10,6 +10,7 @@
 - Cross-stitch Networks for Multi-task Learning (Apr 2016) [[arXiv]](https://arxiv.org/abs/1604.03539)
 ### GAN
 - A Review on Generative Adversarial Networks:Algorithms, Theory, and Applications (20 Jan 2020) [[arXiv]](https://arxiv.org/pdf/2001.06937.pdf)
+- GAN_Review [[Github]](https://github.com/sheqi/GAN_Review)
 ### Pytorch
 - PyTorch: An Imperative Style, High-Performance Deep Learning Library (3 Dec 2019) [[arXiv]](https://arxiv.org/abs/1912.01703)
 ### Efficent deep learning
