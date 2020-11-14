@@ -42,5 +42,6 @@ solution: https://github.com/daggertye/CS294_homework
 - stanford-ai-courses: https://ai.stanford.edu/courses/?fbclid=IwAR1RdWVDMK8YDsGqvR4cTj6dDHE99EZYvMuCgFXHjdp4ug0hmVUq92mmXTk
 - Deep Reinforcement Learning: CS 285 at UC Berkeley, Fall 2020: Levine et al.: [[YouTube]](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc&fbclid=IwAR3hJKa_vW3pOMVbAnfUFnzm0IJUAV7fzLMpt02ln1jXkfnJS3dbo0j5qM4)
 - Graph Representation Learning https://paperswithcode.com/task/graph-representation-learning
+- Graph Representation Learning by William L. Hamilton, McGill University [[Book]](https://www.cs.mcgill.ca/~wlh/grl_book/?fbclid=IwAR06gWu8CrXHxossA_hK8XoOfRFJGqFplZEgVfLMdhprGXD2KsfjnuaTaZ4)
 
 - Deep Learning on Graphs Michigan State University [[Web]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1q1eUTHeGMJ4nXMfIGUN1KTdFarDEDPvq2dXz495CjPsFjTvrajJvMKsg)
