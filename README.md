@@ -45,3 +45,6 @@ solution: https://github.com/daggertye/CS294_homework
 - Graph Representation Learning by William L. Hamilton, McGill University [[Book]](https://www.cs.mcgill.ca/~wlh/grl_book/?fbclid=IwAR06gWu8CrXHxossA_hK8XoOfRFJGqFplZEgVfLMdhprGXD2KsfjnuaTaZ4)
 
 - Deep Learning on Graphs Michigan State University [[Web]](http://cse.msu.edu/~mayao4/dlg_book/?fbclid=IwAR1q1eUTHeGMJ4nXMfIGUN1KTdFarDEDPvq2dXz495CjPsFjTvrajJvMKsg)
+
+### DL Math
+- Mathematical Foundations of Machine Learning (Fall 2020) Rebecca Willett, University of Chicago [[web]](https://voices.uchicago.edu/willett/teaching/mathematical-foundations-of-machine-learning-fall-2020/?fbclid=IwAR3fAPMXMTb_osjsDdohkUIVhd7gqVqIoewpd-5cZGsp6sVLvFM2QzK0M00)
