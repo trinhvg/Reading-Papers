@@ -1,0 +1,14 @@
+- FC4: Fully Convolutional Color Constancy with Confidence-weighted Pooling [[paper]](https://openaccess.thecvf.com/content_cvpr_2017/papers/Hu_FC4_Fully_Convolutional_CVPR_2017_paper.pdf)
+- Learning Diverse Image Colorization [[github]](https://github.com/aditya12agd5/divcolor)
+- Automatic Content-Aware Color and Tone Stylization [[github]](https://github.com/jinyu121/ACACTS)
+- Color Consistency for Community Photo Collections [[guthub]](https://github.com/syncle/photo_consistency)
+- Fast Fourier Color Constancy Matlab Toolbox [[github]](https://github.com/google/ffcc)
+- Probabilistic Moving Least Squares with Spatial Constraints for Nonlinear Color Transfer Between Images [[paper]](https://joonyoung-cv.github.io/assets/paper/19_cviu_probabilistic_moving.pdf)
+- Quantifying the effects of data augmentation and stain color normalization in convolutional neural networks for computational pathology [[paper]](https://www.sciencedirect.com/science/article/pii/S1361841519300799)
+- A study about color normalization methods for histopathology images [[paper]](https://www.sciencedirect.com/science/article/pii/S0968432818300982)
+- A Multi-Hypothesis Approach to Color Constancy[[paper]]((https://openaccess.thecvf.com/content_CVPR_2020/html/Hernandez-Juarez_A_Multi-Hypothesis_Approach_to_Color_Constancy_CVPR_2020_paper.html)
+- When Color Constancy Goes Wrong: Correcting Improperly White-Balanced Images [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Afifi_When_Color_Constancy_Goes_Wrong_Correcting_Improperly_White-Balanced_Images_CVPR_2019_paper.html)
+- Quasi-Unsupervised Color Constancy[[paper]](https://openaccess.thecvf.com/content_CVPR_2019/html/Bianco_Quasi-Unsupervised_Color_Constancy_CVPR_2019_paper.html)
+- Fast Fourier Color Constancy[[paper]](https://openaccess.thecvf.com/content_cvpr_2017/html/Barron_Fast_Fourier_Color_CVPR_2017_paper.html)
+
+
