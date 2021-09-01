@@ -1,4 +1,4 @@
 
-#List of all the courses that I learn in Korea University in the Ph.D. program.
-##Convex Optimization
-- http://www.seas.ucla.edu/~vandenbe/
+# List all the courses that I learn at Korea University (Ph.D. in Electrical and Computer Engineering).
+## Convex Optimization
+- Material from prof Lieven Vandenberghe: http://www.seas.ucla.edu/~vandenbe/
