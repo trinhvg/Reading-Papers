@@ -1,7 +1,7 @@
 
 # List all the courses that I learn at Korea University (Ph.D. in Electrical and Computer Engineering).
 ## Convex Optimization
-- Material from prof Lieven Vandenberghe: [[Website]](http://www.seas.ucla.edu/~vandenbe/) [[Youtube]](https://www.youtube.com/watch?v=SsqlMPSX7tk&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi&index=3)
+- Material from prof Lieven Vandenberghe: [[Website]](http://www.seas.ucla.edu/~vandenbe/) [[Web2]](https://stanford.edu/class/ee364b/lectures/) [[Youtube]](https://www.youtube.com/watch?v=SsqlMPSX7tk&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi&index=3)
 - Lectures by Ahmad Bazzi [[Youtube]](https://www.youtube.com/watch?v=SHJuGASZwlE&list=PL-DDW8QIRjNOVxrU2efygBw0xADVOgpmw)
 - Lectures by Constantine Caramanis [[Youtube]](https://www.youtube.com/channel/UCSv1_NZITsPl-abaCWtRrJg)
 
