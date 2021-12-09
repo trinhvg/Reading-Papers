@@ -15,3 +15,4 @@
 - Graph Representation Learning Book [[Book]](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[Web]](https://ods.ai/tracks/graph-ml-df2020)
 - [[Paper]](https://github.com/thunlp/GNNPapers) [[Paper]](https://github.com/histocartography/histocartography)
+- Probabilistic Graphical Models [[Book]](https://medium.com/lis-computer-vision-blogs/graph-based-computer-vision-algorithm-e2df06a2fe66)
