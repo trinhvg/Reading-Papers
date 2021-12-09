@@ -16,3 +16,4 @@
 - [[Web]](https://ods.ai/tracks/graph-ml-df2020)
 - [[Paper]](https://github.com/thunlp/GNNPapers) [[Paper]](https://github.com/histocartography/histocartography)
 - Probabilistic Graphical Models [[Book]](https://medium.com/lis-computer-vision-blogs/graph-based-computer-vision-algorithm-e2df06a2fe66)
+- [[Code]](https://github.com/orgs/histocartography/repositories?type=all)
