@@ -14,4 +14,4 @@
 - Graph Neural Networks Penn [[Website]](https://gnn.seas.upenn.edu/lectures/)
 - Graph Representation Learning Book [[Book]](https://www.cs.mcgill.ca/~wlh/grl_book/)
 - [[Web]](https://ods.ai/tracks/graph-ml-df2020)
-- 
+- [[Paper]](https://github.com/thunlp/GNNPapers) [[Paper]](https://github.com/histocartography/histocartography)
