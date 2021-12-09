@@ -12,4 +12,6 @@
 - Kernel Methods [[Slide]](http://cs229.stanford.edu/summer2020/cs229-notes3.pdf)
 ## 3. GNN
 - Graph Neural Networks Penn [[Website]](https://gnn.seas.upenn.edu/lectures/)
-- Graph Representation Learning Book [[Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- Graph Representation Learning Book [[Book]](https://www.cs.mcgill.ca/~wlh/grl_book/)
+- [[Web]](https://ods.ai/tracks/graph-ml-df2020)
+- 
