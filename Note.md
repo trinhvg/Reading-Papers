@@ -2,7 +2,8 @@ lightweight: Low numerical precision [[link]](https://www.facebook.com/pytorch/p
 
 # Teamviwer doesn't start after reboot:
 entering the following four commands: (solution from teamviwer community)
-sudo teamviewer daemon restart
-sudo teamviewer daemon disable
-sudo teamviewer daemon enable
-teamviewer
+
+sudo teamviewer daemon restart \
+sudo teamviewer daemon disable \
+sudo teamviewer daemon enable\
+teamviewer\
