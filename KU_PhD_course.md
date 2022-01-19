@@ -9,7 +9,7 @@
 - CS330 Multi-task and Meta learning [[Website]](http://cs330.stanford.edu/)
 - Deepmind course 2021 [[Website]](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 ### 2. NLP
-- Stanford CS224U Natural Language Understanding  (https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
+- Stanford CS224U Natural Language Understanding  [[Website]](https://www.youtube.com/playlist?list=PLoROMvodv4rPt5D0zs3YhbWSZA8Q_DyiJ)
 ## 2021 2nd Semester 
 ### 1. Convex Optimization
 - Material from prof Lieven Vandenberghe: [[Website]](http://www.seas.ucla.edu/~vandenbe/) [[Web2]](https://stanford.edu/class/ee364b/lectures/) [[Youtube]](https://www.youtube.com/watch?v=SsqlMPSX7tk&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi&index=3)
