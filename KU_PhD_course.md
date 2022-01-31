@@ -14,6 +14,8 @@
 - Blog [[Medium]](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 - Google Blog: Rethinking Attention with Performers [[Blog]](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html) 
 - Google Blog: Transformer: A Novel Neural Network Architecture for Language Understanding [[Blog]](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 
+### 3.
+- [[Website]](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 ## 2021 2nd Semester 
 ### 1. Convex Optimization
 - Material from prof Lieven Vandenberghe: [[Website]](http://www.seas.ucla.edu/~vandenbe/) [[Web2]](https://stanford.edu/class/ee364b/lectures/) [[Youtube]](https://www.youtube.com/watch?v=SsqlMPSX7tk&list=PL8WsPW41L6l7rviIGvIkY0-jn-tM3YSNi&index=3)
