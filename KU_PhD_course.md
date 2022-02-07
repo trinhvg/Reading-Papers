@@ -14,6 +14,7 @@
 - Blog [[Medium]](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 - Google Blog: Rethinking Attention with Performers [[Blog]](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html) 
 - Google Blog: Transformer: A Novel Neural Network Architecture for Language Understanding [[Blog]](https://ai.googleblog.com/2017/08/transformer-novel-neural-network.html) 
+- NLP using libraries from the Hugging Face [[Website]](https://huggingface.co/course/chapter1/1?fbclid=IwAR3Np0wi6Lh5OmUfcP3FDV4xc2lpIQVRW6DfbxYM5NSt--QU5GrarR-A1NM)
 ### 3.
 - [[Website]](https://ucbrise.github.io/cs294-ai-sys-sp22/)
 ## 2021 2nd Semester 
