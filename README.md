@@ -1,5 +1,9 @@
 ## Reading-ML/DL_Papers
 - What's Hidden in a Randomly Weighted Neural Network? [29 Nov 2019] [[arXiv]](https://arxiv.org/abs/1911.13299v1) 
+### CVPR2022 Histopathology Images
+- Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning
+- Cross-patch Dense Contrastive Learning for Semi-supervised Segmentation of Cellular Nuclei in Histopathologic Images
+- (WS) Multi-Class Cell Detection Using Modified Self-Attention
 ### Symbolic Computation
 - Deep Learning for Symbolic Mathematics [2 Dec 2019] [[arXiv]](https://arxiv.org/abs/1912.01412v1)
 ### Data preprocessing for Histopathology Image
