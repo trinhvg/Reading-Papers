@@ -1,4 +1,4 @@
-## Reading-ML/DL_Papers
+## Reading-ML/DL_Papers: CV + Medical Image Analysis
 - What's Hidden in a Randomly Weighted Neural Network? [29 Nov 2019] [[arXiv]](https://arxiv.org/abs/1911.13299v1) 
 ### CVPR2022 Histopathology Images
 - Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning
