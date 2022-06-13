@@ -4,6 +4,7 @@
 - Scaling Vision Transformers to Gigapixel Images via Hierarchical Self-Supervised Learning
 - Cross-patch Dense Contrastive Learning for Semi-supervised Segmentation of Cellular Nuclei in Histopathologic Images
 - Node-aligned Graph Convolutional Network for Whole-slide Image Representation and Classification
+- Cell Selection-Based Data Reduction Pipeline for Whole Slide Image Analysis of Acute Myeloid Leukemia
 - (WS) Multi-Class Cell Detection Using Modified Self-Attention
 ### Symbolic Computation
 - Deep Learning for Symbolic Mathematics [2 Dec 2019] [[arXiv]](https://arxiv.org/abs/1912.01412v1)
